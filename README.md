@@ -5,6 +5,7 @@
 ### ROS2 · SLAM · Computer Vision · Autonomous Navigation
 
 *M.Tech, Intelligent Automation & Robotics — Jadavpur University, Kolkata (2023–2026)*
+
 *B.Tech, Electrical Engineering — North Maharashtra University (2015–2019)*
 
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)]()
