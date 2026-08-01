@@ -1,11 +1,9 @@
 <div align="center">
-# Samim Akhtar
 
+# Samim Akhtar
 ## Robotics R&D Engineer — Perception and Navigation
 
 ### `ROS2` · `SLAM` · `Computer Vision` · `Autonomous Navigation`
-
-### ROS2 · SLAM · Computer Vision · Autonomous Navigation
 
 *M.Tech, Intelligent Automation & Robotics — Jadavpur University, Kolkata (2023–2026)*
 
