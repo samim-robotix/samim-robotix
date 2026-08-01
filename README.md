@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Samim%20Akhtar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Research%20Engineer&descSize=20&descColor=e0e0e0" alt="header banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Samim%20Akhtar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20—%20Perception%20%26%20Navigation&descSize=18&descColor=e0e0e0" alt="header banner">
 
 ### ROS2 · SLAM · Computer Vision · Autonomous Navigation
 
 *M.Tech, Intelligent Automation & Robotics — Jadavpur University, Kolkata (2023–2026)*
-
-*B.Tech, Electrical Engineering — North Maharashtra University (2015–2019)*
+*B.Tech, Electrical Engineering — JIEMS, North Maharashtra University (2015–2019)*
 
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
@@ -26,7 +25,7 @@ I build and deploy autonomous mobile robots — perception, planning, control, a
 
 I led a 10-member Jadavpur University team to **5th place nationally, out of 283 institutes**, at the ISRO I-RoCU 2024 rover challenge, handling the vision pipeline, navigation, and sensor fusion on a 6-wheeled GPS-denied rover. I also co-founded the Intelligent Cyber Physical System (ICPS) Lab at JU, a student-driven cross-department research group where I personally guide 7 of its 12+ active projects.
 
-Looking for full-time **Robotics R&D / Robotics Engineer** roles in India — across perception, navigation, control, and hardware deployment.
+Looking for full-time **Robotics Engineer / R&D roles** in India — across perception, navigation, control, and hardware deployment.
 
 ---
 
@@ -39,8 +38,7 @@ Looking for full-time **Robotics R&D / Robotics Engineer** roles in India — ac
 | 🏆 ISRO I-RoCU 2024 | **5th Nationally / 283 institutes** |
 | 📄 IEEE Publication | **ICCECE 2026 — First Author** |
 | 🤖 Real Robots Deployed | **7+** (mobile robots, arms, rovers) |
-| 👥 ICPS Lab Researchers | **26** across departments |
-| 🔬 Active Research Projects | **7** personally guided (of 12+ lab total) |
+| 👥 ICPS Lab Researchers | **26** across departments, 12+ projects |
 | 🎓 M.Tech CGPA | **9.70*** |
 | 🧑‍🏫 Students Trained | **5,000+** across 25+ workshops |
 | 🏛️ Letters of Recommendation | **4** JU professors |
@@ -82,9 +80,9 @@ Looking for full-time **Robotics R&D / Robotics Engineer** roles in India — ac
 | # | Title | Venue | Role | Status |
 |:---:|---|---|:---:|:---:|
 | 1 | A Hybrid Navigation Framework for Multi-Robot Path Planning in Dynamic Environments | **IEEE ICCECE 2026** | First Author | ✅ Presented |
-| 2 | Fuzzy Adaptive CBF for Safe Mobile Robot Navigation via TS-MPC in Dynamic Environments | Target: IEEE venue | First Author | 🔬 Manuscript in prep |
-| 3 | LiDAR-to-IR Cross-Modal Transfer for Low-Light Robot Navigation | Target: IEEE venue | First Author | 🔬 Manuscript in prep |
-| 4 | CNN-Based Gesture Intent Recognition for Robotic Arm Control Without Depth Sensing | Target: top IEEE venue | Co-Author | 🔬 Manuscript in prep |
+| 2 | Fuzzy Adaptive CBF for Safe Mobile Robot Navigation via TS-MPC in Dynamic Environments | Target: IEEE venue | First Author | 🔬 Under preparation |
+| 3 | LiDAR-to-IR Cross-Modal Transfer for Low-Light Robot Navigation | Target: IEEE venue | First Author | 🔬 Under preparation |
+| 4 | CNN-Based Gesture Intent Recognition for Robotic Arm Control Without Depth Sensing | Target: top IEEE venue | Co-Author | 🔬 Under preparation |
 
 ---
 
@@ -94,7 +92,7 @@ Looking for full-time **Robotics R&D / Robotics Engineer** roles in India — ac
 
 An informal, student-driven, cross-department research group — not an institutionally recognized university lab. 26 active researchers working across 12+ ongoing projects; I personally guide 7 of these. The lab operates with active oversight from **Prof. Sheli Sinha Chaudhuri** (ETCE, JU).
 
-M.Tech thesis guided by **Prof. Amit Konar** (FNAE, ETCE, JU).
+M.Tech thesis guided by **Prof. Amit Konar** (FNAE, ETCE, JU — 15,000+ citations).
 
 ---
 
@@ -102,48 +100,44 @@ M.Tech thesis guided by **Prof. Amit Konar** (FNAE, ETCE, JU).
 
 <div align="center">
 
-### Autonomy & Control
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat-square)
-![SLAM](https://img.shields.io/badge/SLAM-4B0082?style=flat-square)
-![CBF](https://img.shields.io/badge/Control_Barrier_Functions-006400?style=flat-square)
-![MPC](https://img.shields.io/badge/Model_Predictive_Control-00599C?style=flat-square)
-![FK/IK](https://img.shields.io/badge/FK%2FIK-8B0000?style=flat-square)
-![MicroROS](https://img.shields.io/badge/MicroROS-22314E?style=flat-square)
-
-### Perception & Intelligence
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00BFFF?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
-![EEG Signal Processing](https://img.shields.io/badge/EEG_Signal_Processing-8A2BE2?style=flat-square)
-
-### Hardware & Embedded
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_4%2F5-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Jetson](https://img.shields.io/badge/Jetson_Nano%2FOrin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Hailo](https://img.shields.io/badge/Hailo_AI_Hat-000000?style=flat-square)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![LiDAR](https://img.shields.io/badge/2D_LiDAR-333333?style=flat-square)
-![IMU](https://img.shields.io/badge/IMU_MPU6050-333333?style=flat-square)
-
-### Simulation & Tools
-![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square)
-![Webots](https://img.shields.io/badge/Webots-6C4298?style=flat-square)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-555555?style=flat-square)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-### Electrical Engineering (B.Tech background)
-![Power Management](https://img.shields.io/badge/Power_Management-FF4500?style=flat-square)
-![BMS](https://img.shields.io/badge/Battery_Management-FF4500?style=flat-square)
-![Circuit Design](https://img.shields.io/badge/Circuit_Design-FF4500?style=flat-square)
-![PCB Design](https://img.shields.io/badge/PCB_Design-FF4500?style=flat-square)
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![Gazebo](https://img.shields.io/badge/Gazebo_Harmonic-F58113?style=for-the-badge&logo=gazebo&logoColor=white)]()
+[![MuJoCo](https://img.shields.io/badge/MuJoCo-555555?style=for-the-badge)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)]()
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)]()
+[![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
 </div>
+
+<br>
+
+### Core — Hands-on & Deployed in Real Projects
+
+`Python` · `C++` · `MATLAB` · `URDF` · `XACRO` · `YAML` · `ROS2 (Humble/Jazzy)` · `Nav2` · `RViz2` · `TF2` · `rclpy` · `rclcpp` · `Colcon` · `rqt` · `SLAM Toolbox` · `Visual SLAM` · `Occupancy Grid Mapping` · `Kalman Filter` · `EKF` · `UKF` · `Complementary Filter` · `A*` · `RRT` · `Dijkstra` · `Custom A* + MPC hybrid (IEEE ICCECE 2026)` · `PID` · `MPC` · `Fuzzy Logic Control` · `Fuzzy Adaptive Control` · `Takagi-Sugeno Fuzzy` · `Control Barrier Functions (CBF)` · `Control Lyapunov Functions (CLF)` · `Motor Control` · `Forward Kinematics` · `Inverse Kinematics` · `DH Parameters` · `Jacobians` · `Differential Kinematics` · `URDF Modeling` · `OpenCV` · `YOLOv8/v11/v26 (Ultralytics)` · `Camera Calibration` · `Depth Estimation` · `Object Detection` · `Face Detection` · `ArUco Markers` · `Image Processing` · `MediaPipe` · `TensorFlow` · `Keras` · `CNNs (ResNet, MobileNet, EfficientNet)` · `Reinforcement Learning` · `Transfer Learning` · `Gazebo Harmonic` · `MuJoCo` · `MATLAB Simulink` · `Raspberry Pi 4/5` · `Jetson Nano` · `Hailo AI Accelerator` · `ESP32` · `Arduino (Uno/Mega/Nano)` · `2D LiDAR (YDLIDAR)` · `IMU (MPU6050, BNO055)` · `USB/IR Camera` · `Encoders (Quadrature/Optical/Hall)` · `Ultrasonic` · `ToF (VL53L0X, TFmini-S)` · `GPS (Neo-6M)` · `EEG (Emotiv)` · `DC Motors` · `BLDC + ESC` · `Stepper Motors` · `Servo Motors` · `Multi-brand Motor Drivers` · `UART` · `I2C` · `USB` · `WiFi` · `Bluetooth` · `WebSocket` · `DDS (ROS2)` · `Linux (Ubuntu 22.04 / 24.04)` · `VS Code` · `Git & GitHub` · `Jupyter Notebook` · `Google Colab` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `SciPy` · `Fusion 360` · `3D Printing (Cura)`
+
+### Working Knowledge — Studied, Tried, or Familiar
+
+`PyTorch` · `TensorRT` · `Hugging Face Transformers` · `Deep RL` · `Stable Baselines3` · `Transformers (ViT, DETR)` · `LSTM / RNN` · `MicroROS` · `MoveIt2` · `rosbag2` · `Docker` · `Cartographer` · `RTAB-Map` · `AMCL` · `Particle Filter` · `Wheel Odometry` · `Visual Odometry` · `LQR` · `NMPC` · `Adaptive Control` · `State-Space Control` · `Object Tracking (DeepSORT, ByteTrack)` · `Image Segmentation` · `OpenPose` · `Point Cloud (PCL, Open3D)` · `Scene Understanding` · `NVIDIA Isaac Sim` · `Isaac Lab` · `Webots` · `CARLA` · `AirSim` · `STM32` · `Raspberry Pi Pico` · `FPGA (Zynq Z2)` · `Jetson Orin Nano` · `Depth Camera (Intel RealSense D435)` · `Thermal Camera` · `EEG (19-ch Clinical)` · `SPI` · `CAN` · `LoRa` · `MQTT` · `Ethernet` · `CI/CD (GitHub Actions)` · `Edge Impulse`
+
+### Electrical & Power Systems (B.Tech Background)
+
+`Circuit Design` · `Power Distribution` · `Switching Circuits` · `Battery Management (LiPo / Li-ion)` · `Component Selection` · `Circuit Debugging` · `SMD / Through-hole Soldering` · `Circuit Simulation` · `PCB Design (basic)` · `Robot Wiring`
+
+### Drones & IoT
+
+`Quadcopter Assembly` · `Pixhawk` · `ArduPilot` · `MAVLink` · `ESP32 IoT` · `Raspberry Pi IoT` · `Blynk` · `ThingSpeak` · `Firebase (basic)` · `Home Automation` · `Agricultural IoT` · `Environmental Monitoring`
+
+---
+
+### Specialized Robotics Domains
+
+`Autonomous Mobile Robots (AMR)` · `Autonomous Ground Vehicles (AGV)` · `Robotic Manipulators (KUKA, ABB IRB 120, Jaco, self-built 6-DOF)` · `Multi-Robot Systems` · `Swarm Robotics` · `Warehouse Robotics` · `Autonomous Drones (UAV)` · `Agricultural Robotics` · `Educational Robotics` · `Brain-Computer Interface (BCI)` · `Teleoperation`
 
 ---
 
@@ -152,7 +146,7 @@ M.Tech thesis guided by **Prof. Amit Konar** (FNAE, ETCE, JU).
 | Degree | Institution | Period | CGPA |
 |---|---|---|---|
 | M.Tech, Intelligent Automation & Robotics | Jadavpur University, Kolkata | 2023–2026 | 9.70* |
-| B.Tech, Electrical Engineering | North Maharashtra University | 2015–2019 | 7.35 |
+| B.Tech, Electrical Engineering | JIEMS, North Maharashtra University (KBCNMU) | 2015–2019 | 7.35 |
 
 *\*Pending final thesis evaluation marks.*
 
@@ -170,7 +164,7 @@ M.Tech thesis guided by **Prof. Amit Konar** (FNAE, ETCE, JU).
 - **2024** — ISRO I-RoCU: 5th Nationally / 283 institutes (Team Lead)
 - **2024 (Jul) – 2025 (Jan)** — Robotics Trainer & Project Guide, DITO (international NGO)
 - **2026** — IEEE ICCECE paper presented; M.Tech thesis submitted, defended, course completion issued (June 2026)
-- **2026** — Seeking R&D / Robotics Engineering roles in India
+- **2026** — Seeking Robotics Engineer / R&D roles in India
 
 ---
 
