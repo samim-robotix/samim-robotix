@@ -1,6 +1,7 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Samim%20Akhtar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Samim%20Akhtar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20—%20Perception%20%26%20Navigation&descSize=18&descColor=e0e0e0" alt="header banner">
+# Samim Akhtar
+### Robotics Engineer — Perception & Navigation<div align="center">
 
 ### ROS2 · SLAM · Computer Vision · Autonomous Navigation
 
